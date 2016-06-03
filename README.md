@@ -1,1 +1,1 @@
-# scray-web
+# scrapy-web
